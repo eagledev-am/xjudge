@@ -1,3 +1,6 @@
 [submodule "X-Judge"]
 	path = X-Judge
 	url = https://github.com/Zeyad2003/X-Judge
+[submodule "xjudge-web"]
+	path = xjudge-web
+	url = https://github.com/yousofkortam/xjudge-web
